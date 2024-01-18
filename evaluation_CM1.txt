@@ -1,0 +1,13 @@
+echo "# gpl1" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/danraza12/gpl1.git
+git push -u origin main
+
+mkdir gitCM1
+cd gitCM1
+touch local1.txt
+git add local1.txt
+git commit -m "mon fichier local à synchroniser"
