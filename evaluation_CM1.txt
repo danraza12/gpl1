@@ -13,3 +13,12 @@ cd gitCM1
 touch local1.txt
 git add local1.txt
 git commit -m "mon fichier local à synchroniser"
+
+
+
+
+J'ai créé la branche remote_branch1
+
+git branch local_branch1
+git checkout local_branch1
+git push origin local_branch1
