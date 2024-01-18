@@ -1,3 +1,5 @@
+Vous trouverez ici les commandes pour créer le fichier local. J'utilise une VM qui n'a pas accès à internet (j'ai essayé de connecter d'ou le retard) du coup j'ai mis les commandes à utiliser
+
 echo "# gpl1" >> README.md
 git init
 git add README.md
